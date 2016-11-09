@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.concurrent.ExecutionException;
 
 public class FindBeerActivity extends AppCompatActivity {
+    
     private BeerExpert expert = new BeerExpert();
     private TextView brands;
 
